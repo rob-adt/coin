@@ -1,0 +1,18 @@
+﻿body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background-image: url("image/brickedup.jpg");
+    background-repeat: no-repeat;
+    background-size: cover
+}
+img {
+    max-width: 100px;
+    position: fixed;
+}
+p {
+    border: 1px solid green;
+    width: 150px;
+    background-color: bisque
+}
